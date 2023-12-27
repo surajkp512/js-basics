@@ -28,5 +28,5 @@ console.log(url.replace(`%20`,`-`))
 console.log(url)
 console.log(url.includes(`suraj`));
 
-console.log(gameName.split(`-`, 3));
+console.log(gameName.split(`-` ));
 
